@@ -1,5 +1,26 @@
 *.py[cod]
 
+# The programm to accumulate small amount of factors
+
+def main():
+    print()
+    print(" factors generating program")
+    
+    n = eval(input(" Enter number for n:)
+    
+    sum = 0.0
+    count = 0.0
+    
+    for i in range(n):
+        x = eval(input(" Please the numbers:")
+        sum+=1
+        count+=1
+         
+        average = x /n
+        
+    print(" The average of n is equal",average, ".")
+main()
+
 # C extensions
 *.so
 
